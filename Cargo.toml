@@ -1,6 +1,7 @@
 [package]
-name = "ds_and_a"
+name = "rust-dsa"
 version = "0.1.0"
 edition = "2021"
+path = "src/lib.rs"
 
 [dependencies]
